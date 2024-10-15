@@ -16,7 +16,7 @@ Dooksa
 * Provides a simple method to create custom plugins to meet specific application needs
 * Is a "full-stack" system where the app frontend and backend are developed in the same manner, with the same syntax, and with the same processes
 * Gives developers unrestricted freedom over their own application project, to modify as it fits their needs
-* Importantly, there are no abstractions dependent upon version upgrades. The system has zero dependencies on node modules.
+* Importantly, there are no abstractions dependent upon version upgrades. The frontend system has zero dependencies on node modules.
 
 
 ## Getting Started with creating an application or a site
